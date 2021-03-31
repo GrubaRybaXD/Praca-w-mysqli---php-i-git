@@ -11,4 +11,5 @@ try{
 }catch(PDOException $e){
     echo('Problem z połączeniem');
 }
+
 ?>
