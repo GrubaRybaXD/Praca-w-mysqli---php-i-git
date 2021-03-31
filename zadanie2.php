@@ -5,5 +5,5 @@ if ($polaczenie -> connect_errno) {
   echo "Błąd połączenie" . $mysqli -> connect_error;
 
 }
-
+ 
 ?>
